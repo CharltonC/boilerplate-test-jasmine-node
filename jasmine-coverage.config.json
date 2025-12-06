@@ -1,0 +1,9 @@
+{
+  "reporter": ["text", "html"],
+  "exclude": [
+    "spec",
+    "**/*.spec.js"
+  ],
+  "all": true,
+  "include": ["src/**/*.js"]
+}

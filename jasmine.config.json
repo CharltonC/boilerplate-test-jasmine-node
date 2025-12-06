@@ -1,0 +1,15 @@
+{
+  "spec_dir": ".",
+  "spec_files": [
+    "src/**/*spec.js"
+  ],
+  "helpers": [
+    "jasmine-reporter.cjs"
+  ],
+  "env": {
+    "failSpecWithNoExpectations": false,
+    "stopSpecOnExpectationFailure": false,
+    "stopOnSpecFailure": false,
+    "random": false
+  }
+}
